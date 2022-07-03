@@ -1,0 +1,10 @@
+{
+  "mochawesomeReporterOptions": {
+    "reportDir": "cypress/results",
+    "overwrite": false,
+    "html": false,
+    "json": true,
+    "consoleReporter": "spec"
+  },
+  "reporterEnabled": "mochawesome"
+}
